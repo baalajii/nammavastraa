@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- The Saree Figure (Right) -->
+    <path
+        android:fillColor="#800000"
+        android:pathData="M75,30 C65,30 60,40 60,50 C60,65 70,75 75,85 L95,85 L95,45 C95,40 85,30 75,30 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M78,35 L95,55 M82,40 L95,65 M86,45 L95,75"
+        android:strokeWidth="2"
+        android:strokeColor="#D4AF37" />
+
+    <!-- The Loom (Left) -->
+    <path
+        android:fillColor="#6B4226"
+        android:pathData="M20,35 L50,35 L50,40 L20,40 Z M22,40 L22,80 M48,40 L48,80 M20,80 L52,80 L52,85 L20,85 Z" />
+    <path
+        android:strokeColor="#FDF6EC"
+        android:strokeWidth="0.8"
+        android:pathData="M25,40 L25,80 M28,40 L28,80 M31,40 L31,80 M34,40 L34,80 M37,40 L37,80 M40,40 L40,80 M43,40 L43,80 M46,40 L46,80" />
+
+    <!-- Text area at bottom -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M20,65 L88,65 L88,78 L20,78 Z"
+        android:fillAlpha="0.1" />
+
+    <!-- Bottom Ornate Border -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M10,90 L98,90"
+        android:strokeWidth="1"
+        android:strokeColor="#D4AF37" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,88 C54,88 56,92 54,95 C52,92 54,88 54,88 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M20,90 C20,90 22,94 20,98 M30,90 C30,90 32,94 30,98 M40,90 C40,90 42,94 40,98 M68,90 C68,90 70,94 68,98 M78,90 C78,90 80,94 78,98 M88,90 C88,90 90,94 88,98"
+        android:strokeWidth="0.5"
+        android:strokeColor="#D4AF37" />
+
+</vector>
